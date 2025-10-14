@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+<img width="100%" src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,ubuntu,windows&theme=light&perline=12" alt="Skills Icons"/>
