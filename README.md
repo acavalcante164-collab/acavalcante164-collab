@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <img width="100%" src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,ubuntu,windows&theme=light&perline=12" alt="Skills Icons"/>
 
 ![Image](https://github.com/user-attachments/assets/eb99ba39-0adf-47f1-8e31-b9e22b635306)
