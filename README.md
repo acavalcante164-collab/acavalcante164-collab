@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img width="100%" src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,ubuntu,windows&theme=light&perline=12" alt="Skills Icons"/>
 
 
-<img width="500" height="281" alt="source" src="https://github.com/user-attachments/assets/efc83a40-3b85-4017-b267-95aec457044f" />
+<img align="center" width="500" height="281" alt="source" src="https://github.com/user-attachments/assets/efc83a40-3b85-4017-b267-95aec457044f" />
 
 
 <div style="display: inline_block"><br>
