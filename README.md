@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 <img width="100%" src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,ubuntu,windows&theme=light&perline=12" alt="Skills Icons"/>
 
-![Image](https://github.com/user-attachments/assets/eb99ba39-0adf-47f1-8e31-b9e22b635306)
+
+<img width="500" height="281" alt="source" src="https://github.com/user-attachments/assets/efc83a40-3b85-4017-b267-95aec457044f" />
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
