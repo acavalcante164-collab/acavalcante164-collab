@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: acavalcante164@gmail.com
 - 😄 Pronouns: BigFrog
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am not Indian, I am Brazilian.
 
 
 <div align="center">
