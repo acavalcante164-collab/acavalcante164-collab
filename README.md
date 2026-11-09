@@ -2,7 +2,7 @@
 
 - 🔭 Currently, I am working on finishing my college degree...
 - 🌱 I’m currently learning MIPS32...
-- 🤔 I’m looking for help with ... Starstruck
+- 🤔 I’m looking for help with ... Starstruck !!!
 - 💬 Ask me about ... Anything but analytic geometry
 - 📫 How to reach me: acavalcante164@gmail.com
 - 😄 Pronouns: BigFrog
