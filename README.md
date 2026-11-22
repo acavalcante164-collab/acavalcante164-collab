@@ -13,7 +13,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<img width="100%" src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,ubuntu,windows&theme=light&perline=12" alt="Skills Icons"/>
+<img width="100%" src="https://skillicons.dev/icons?i=c,java,python,git,docker,vscode,ubuntu,windows&theme=light&perline=12" alt="Skills Icons"/>
 
 
 <img align="center" width="500" height="281" alt="source" src="https://github.com/user-attachments/assets/efc83a40-3b85-4017-b267-95aec457044f" />
